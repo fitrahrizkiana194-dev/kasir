@@ -1,0 +1,6 @@
+{
+  "name": "Kasir Pintar POS - Sistem Informasi Kasir Modern",
+  "description": "Sistem Informasi Kasir & Point of Sale lengkap dengan manajemen stok, transaksi multi-metode, struk thermal, laporan laba rugi, dan rekonsiliasi kas shift.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
